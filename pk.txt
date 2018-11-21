@@ -1,0 +1,4 @@
+public function get_name() {
+		
+		return $this->get_prop( 'name' );
+	}
